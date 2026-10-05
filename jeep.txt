@@ -1,0 +1,15 @@
+logo Hyundai:
+audio welcome
+models images
+models ft
+model version (versions/audio/video)
+model price (title/subtitle/audio)
+
+
+santafe  jeep avenger mhev
+accent compass
+i10 grand sheroke
+grand i10 gladiator
+bayon wrangler
+
+remove other models
